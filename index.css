@@ -1,0 +1,264 @@
+body
+{background-color: black;}
+.no
+{display: flex;}
+.one
+{flex-basis: 30%;}
+.two
+{flex-basis: 45%;}
+.three
+{flex-basis: 25%;}
+ 
+ .one img
+ {height: 90px;
+ width: 90px;
+ position: relative;
+  bottom: 25px;
+  left: 40px;
+}
+
+.three img
+{height: 40px;
+width: 40px;
+position: relative;
+left: 10px;
+bottom: 5px;
+}
+
+.two a 
+{padding: 10px;
+text-decoration: none;
+color: white;}
+.two a:hover
+{color: blue;}
+
+
+
+
+
+
+
+
+
+
+
+
+.no2
+{display: flex;}
+.four
+{flex-basis: 50%;}
+.five
+{flex-basis: 50%;}
+.four h1
+{color: white;
+font-size: 50px;
+position: relative;
+left: 50px;}
+.four h2
+{color: white;
+font-size: 20px;
+font-weight: normal;
+position: relative;
+bottom: 20px;
+left: 50px;
+}
+
+.four a
+{color: black;
+background-color: yellow;
+text-decoration: none;
+font-size: 20px;
+padding: 10px;
+margin-left: 20px;
+position: relative;
+left: 50px;
+}
+.four a:hover
+{color: blue;}
+
+
+.five img
+{height: 400px;
+width: 350px;
+position: relative;
+left: 70px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.no3
+{display: flex;
+background-color: black;}
+
+.six, .seven, .eight
+{flex-basis: 33%;
+background-color: white;
+padding: 20px;
+}
+.six, .seven, .eight, h1
+{color: white;}
+
+.mm 
+{background-color: black;
+border-radius: 40px;
+}
+.mm img{
+	height: 80px;
+	width: 80px;
+position: relative;
+left: 150px;}
+.mm h1
+{font-weight: bold;
+margin-left: 100px;
+font-size: 30px;
+position: relative;
+bottom: 25px;
+left: 20px;}
+.mm h2
+{font-weight: normal;
+margin-left: 40px;
+font-size: 20px;
+position: relative;
+bottom: 40px;
+}
+
+.mm a 
+{position: relative;
+left: 130px;
+bottom: 30px;
+background-color: yellow;
+color: black;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;}
+.mm a:hover
+{color: blue;}
+
+.mm2 
+{background-color: black;
+border-radius: 40px;
+}
+
+.mm2 img{
+	height: 80px;
+	width: 80px;
+position: relative;
+left: 150px;}
+.mm2 h1
+{font-weight: bold;
+margin-left: 100px;
+font-size: 30px;
+position: relative;
+bottom: 25px;
+left: 20px;}
+.mm2 h2
+{font-weight: normal;
+margin-left: 40px;
+font-size: 20px;
+position: relative;
+bottom: 40px;
+}
+
+.mm2 a 
+{position: relative;
+left: 130px;
+bottom: 30px;
+background-color: yellow;
+color: black;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;}
+.mm2 a:hover
+{color: blue;}
+
+
+
+.mm3
+{background-color: black;
+border-radius: 40px;}
+.mm3 img{
+	height: 80px;
+	width: 80px;
+position: relative;
+left: 150px;}
+.mm3 h1
+{font-weight: bold;
+margin-left: 100px;
+font-size: 30px;
+position: relative;
+bottom: 25px;
+left: 20px;}
+.mm3 h2
+{font-weight: normal;
+margin-left: 40px;
+font-size: 20px;
+position: relative;
+bottom: 40px;
+}
+
+.mm3 a 
+{position: relative;
+left: 130px;
+bottom: 30px;
+background-color: yellow;
+color: black;
+padding-left: 10px;
+padding-right: 10px;
+text-decoration: none;}
+.mm3 a:hover
+{color: blue;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.only
+{display: flex;}
+.me, .me2
+{flex-basis: 50%;
+background-color: yellow;}
+.me h2
+{font-weight: normal;}
+
+.me2 a 
+{color: white;
+background-color: black;
+text-decoration: none;
+font-size: 20px;
+padding-left: 30px;
+padding-right: 30px;
+position: relative;
+top: 30px;
+left: 40px;}
+.me2 a:hover
+{color: blue;}
+
+
+
+h3
+{color: white;
+margin-left: 400px;
+font-weight: normal;}
